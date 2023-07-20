@@ -1,0 +1,142 @@
+.Titulo{
+    color: black;
+    font-family: 'Chango', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Ysabeau SC', sans-serif;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-size: 100px;
+}
+.subtitulo{
+    color: black;
+    font-family: 'Arsenal', sans-serif;
+    font-family: 'Chango', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'M PLUS 1', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+    p.caption{text-indent: -1000px;}
+}
+
+.eslogan{
+    color: green;
+    font-weight: 400;
+    font-stretch: semi-condensed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 40px;
+}
+
+.banner{ 
+    width: 100%;
+
+}
+
+.Catálogo{ 
+    color: black;
+    font-family: 'Arsenal', sans-serif;
+    font-family: 'Chango', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'M PLUS 1', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    font-size: 300px;
+
+
+}
+
+
+a{
+    color: rgb(65, 97, 0);
+    text-decoration: double;
+    text-decoration: none;
+    text-decoration: dotted;
+}
+
+
+.indice{
+    font-weight:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-content: center;
+    font-size: 120px;
+}
+
+.art{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 120px;
+    align-content: center;
+    background-color: rgb(245, 241, 13);
+    border-radius: 6px;
+    letter-spacing: 2px;
+    align-items: center;
+    }
+    
+    .sud{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 120px;
+        align-content: center;
+        background-color: rgb(245, 241, 13);
+        border-radius: 6px;
+        letter-spacing: 2px;
+       align-items: center;
+
+
+    }
+    
+    .play{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 120px;
+        align-content: center;
+        background-color: rgb(245, 241, 13);
+        border-radius: 6px;
+        letter-spacing: 2px;
+        align-items: center;
+    }
+    
+    .taz{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 120px;
+        align-content: center;
+        background-color: rgb(245, 241, 13);
+        border-radius: 6px;
+        letter-spacing: 2px;
+        align-items: center;
+    }
+    
+    .off{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 120px;
+        align-content: center;
+        background-color: rgb(245, 241, 13);
+        border-radius: 6px;
+        letter-spacing: 2px;
+        align-items: center;
+    }
+    
+    .gran{
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 120px;
+        align-content: center;
+        background-color: rgb(245, 241, 13);
+        border-radius: 6px;
+        letter-spacing: 2px;
+        align-items: center;
+    }
+    
+
+    
